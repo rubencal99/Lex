@@ -1,0 +1,10 @@
+// Name: Ruben Calderon
+// CruzID: rucalder
+// Assignment Name: pa1
+
+1. README 	- A table of contents for the project.
+2. Makefile 	- Compiles all .c files and creates an executable binary file called Lex.
+3. List.c 	- A double-linked list ADT containing a cursor node.
+4. List.h 	- A header file for List.c containing all the methods used.
+5. ListClient.c	- Test client for List.c.
+6. Lex.c	- Program that reads a file, creates a string for every line in that file, and indirectly sorts said strings by creating a List using a sorting algorithm.
